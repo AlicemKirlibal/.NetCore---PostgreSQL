@@ -1,0 +1,59 @@
+﻿@model testapitsoft.Models.OrderViewModel
+@{
+    ViewData["Title"] = "GetAllOrders";
+}
+
+
+
+
+
+<div class="container">
+
+    <!-- Button trigger modal -->
+    <a asp-controller="Order" asp-action="Add" class="btn btn-sm btn-success">
+        Create New
+    </a>
+
+    <!-- Modal -->
+
+    <table class="table table-bordered table-hover" style="margin-top:20px">
+        <thead>
+            <tr>
+                <th>CustomerId</th>
+                <th>CustomerUsername</th>
+                <th>OrderId</th>
+                <th>OrderCode</th>
+                <th>OrderTotalPrice</th>
+                <th>Order Settings</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var order in Model.Orders)
+            {
+                <tr>
+                    <td>@order.CustomerId</td>
+                    <td>@order.CustomerUsername</td>
+                    <td>@order.OrderId</td>
+                    <td>@order.OrderCode</td>
+                    <td>@order.OrderTotalPrice</td>
+                    <td>
+
+                        <a asp-controller="Order" asp-action="Delete" asp-route-id="@order.CustomerId" class="btn btn-sm btn-danger">Delete</a>
+                        |
+                        <a asp-controller="Order" asp-action="Update" asp-route-id="@order.CustomerId" class="btn btn-sm btn-info">Update</a>
+                        |
+                        <a asp-controller="Order" asp-action="Details" asp-route-id="@order.CustomerId" class="btn btn-sm btn-primary">Details</a>
+
+                    </td>
+
+                </tr>
+            }
+
+        </tbody>
+
+
+
+
+    </table>
+</div>

@@ -1,0 +1,53 @@
+﻿
+@model testapitsoft.Core.Dtos.OrderDto
+
+
+
+
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <table class="table table-bordered table-hover">
+               <thead>
+                   <tr>
+                       <th>CustomerId</th>
+                       <th>CustomerUsername</th>
+                       <th>OrderCode</th>
+                       <th>OrderId</th>
+                       <th>OrderTotalPrice</th>
+                   </tr>
+               </thead>
+                <tbody>
+                    <tr>
+                        <td> @Model.CustomerId</td>
+                        <td>  @Model.CustomerUsername</td>
+                        <td>   @Model.OrderCode</td>
+                        <td>
+                            @Model.OrderId
+                        </td>
+                        <td> @Model.OrderTotalPrice</td>
+                    </tr>
+                </tbody>
+
+            </table>
+
+         
+          
+           
+           
+        </div>
+
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+

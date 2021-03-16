@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\testapitsoft\testapitsoft.Data\bin\Debug\netcoreapp3.1\testapitsoft.Data.deps.json
+C:\Users\Dell\Desktop\testapitsoft\testapitsoft.Data\bin\Debug\netcoreapp3.1\testapitsoft.Data.runtimeconfig.json
+C:\Users\Dell\Desktop\testapitsoft\testapitsoft.Data\bin\Debug\netcoreapp3.1\testapitsoft.Data.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\testapitsoft\testapitsoft.Data\bin\Debug\netcoreapp3.1\testapitsoft.Data.dll
+C:\Users\Dell\Desktop\testapitsoft\testapitsoft.Data\bin\Debug\netcoreapp3.1\testapitsoft.Data.pdb
+C:\Users\Dell\Desktop\testapitsoft\testapitsoft.Data\bin\Debug\netcoreapp3.1\testapitsoft.Core.dll
+C:\Users\Dell\Desktop\testapitsoft\testapitsoft.Data\bin\Debug\netcoreapp3.1\testapitsoft.Core.pdb
+C:\Users\Dell\Desktop\testapitsoft\testapitsoft.Data\obj\Debug\netcoreapp3.1\testapitsoft.Data.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\testapitsoft\testapitsoft.Data\obj\Debug\netcoreapp3.1\testapitsoft.Data.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\testapitsoft\testapitsoft.Data\obj\Debug\netcoreapp3.1\testapitsoft.Data.AssemblyInfo.cs
+C:\Users\Dell\Desktop\testapitsoft\testapitsoft.Data\obj\Debug\netcoreapp3.1\testapitsoft.Data.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\testapitsoft\testapitsoft.Data\obj\Debug\netcoreapp3.1\testapitsoft.Data.csproj.CopyComplete
+C:\Users\Dell\Desktop\testapitsoft\testapitsoft.Data\obj\Debug\netcoreapp3.1\testapitsoft.Data.dll
+C:\Users\Dell\Desktop\testapitsoft\testapitsoft.Data\obj\Debug\netcoreapp3.1\testapitsoft.Data.pdb
+C:\Users\Dell\Desktop\testapitsoft\testapitsoft.Data\obj\Debug\netcoreapp3.1\testapitsoft.Data.genruntimeconfig.cache

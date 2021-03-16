@@ -1,0 +1,32 @@
+﻿@model testapitsoft.Core.Dtos.OrderDto
+@{
+    ViewData["Title"] = "";
+}
+
+
+<div class="container">
+    <form asp-controller="Order" asp-action="Add" method="post">
+
+        <div class="input-group">
+            CustomerUsername
+            <input type="text" asp-for="CustomerUsername" name="CustomerUserName" />
+        </div>
+
+        <div class="input-group">
+            OrderCode
+            <input type="text" asp-for="OrderCode" name="OrderCode" />
+        </div>
+
+        <div class="input-group">
+            OrderId
+            <input type="number" asp-for="OrderId" name="OrderId" />
+        </div>
+        <div class="input-group">
+            OrderTotalPrice
+            <input type="text" asp-for="OrderTotalPrice" />
+        </div>
+        
+        <a href="/Order/GetAllOrders" class="btn btn-sm btn-info">Go Back</a>
+        <button type="submit" class="btn btn-sm btn-success">Create Order</button>
+    </form>
+</div>
