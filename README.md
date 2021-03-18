@@ -8,6 +8,5 @@
  - **Entity Framework Core**
  
  ## Architecture Used <br>
- - **Clean Architecture**
  - **N-Layer Architecture**
  - **SOLID Architecture** 
