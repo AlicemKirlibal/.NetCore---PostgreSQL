@@ -10,3 +10,4 @@
  ## Architecture Used <br>
  - **N-Layer Architecture**
  - **SOLID Architecture** 
+ - - **Clean Architecture**
