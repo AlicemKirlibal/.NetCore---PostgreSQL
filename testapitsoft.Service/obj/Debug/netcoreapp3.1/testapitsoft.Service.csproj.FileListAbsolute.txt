@@ -10,3 +10,17 @@ C:\Users\Dell\Desktop\testapitsoft\testapitsoft.Service\obj\Debug\netcoreapp3.1\
 C:\Users\Dell\Desktop\testapitsoft\testapitsoft.Service\obj\Debug\netcoreapp3.1\testapitsoft.Service.csproj.CopyComplete
 C:\Users\Dell\Desktop\testapitsoft\testapitsoft.Service\obj\Debug\netcoreapp3.1\testapitsoft.Service.dll
 C:\Users\Dell\Desktop\testapitsoft\testapitsoft.Service\obj\Debug\netcoreapp3.1\testapitsoft.Service.pdb
+C:\Users\ASUS\Desktop\testapitsoft\testapitsoft.Service\bin\Debug\netcoreapp3.1\testapitsoft.Service.deps.json
+C:\Users\ASUS\Desktop\testapitsoft\testapitsoft.Service\bin\Debug\netcoreapp3.1\testapitsoft.Service.dll
+C:\Users\ASUS\Desktop\testapitsoft\testapitsoft.Service\bin\Debug\netcoreapp3.1\testapitsoft.Service.pdb
+C:\Users\ASUS\Desktop\testapitsoft\testapitsoft.Service\bin\Debug\netcoreapp3.1\testapitsoft.Core.dll
+C:\Users\ASUS\Desktop\testapitsoft\testapitsoft.Service\bin\Debug\netcoreapp3.1\testapitsoft.Data.dll
+C:\Users\ASUS\Desktop\testapitsoft\testapitsoft.Service\bin\Debug\netcoreapp3.1\testapitsoft.Core.pdb
+C:\Users\ASUS\Desktop\testapitsoft\testapitsoft.Service\bin\Debug\netcoreapp3.1\testapitsoft.Data.pdb
+C:\Users\ASUS\Desktop\testapitsoft\testapitsoft.Service\obj\Debug\netcoreapp3.1\testapitsoft.Service.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\testapitsoft\testapitsoft.Service\obj\Debug\netcoreapp3.1\testapitsoft.Service.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\testapitsoft\testapitsoft.Service\obj\Debug\netcoreapp3.1\testapitsoft.Service.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\testapitsoft\testapitsoft.Service\obj\Debug\netcoreapp3.1\testapitsoft.Service.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\testapitsoft\testapitsoft.Service\obj\Debug\netcoreapp3.1\testapitsoft.Service.csproj.CopyComplete
+C:\Users\ASUS\Desktop\testapitsoft\testapitsoft.Service\obj\Debug\netcoreapp3.1\testapitsoft.Service.dll
+C:\Users\ASUS\Desktop\testapitsoft\testapitsoft.Service\obj\Debug\netcoreapp3.1\testapitsoft.Service.pdb

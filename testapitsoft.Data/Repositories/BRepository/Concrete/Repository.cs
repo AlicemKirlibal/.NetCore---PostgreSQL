@@ -4,9 +4,9 @@ using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
-using testapitsoft.Core.Data.Repository;
+using testapitsoft.Data.Repositories.BRepository.Abstract;
 
-namespace testapitsoft.Data.Repositories
+namespace testapitsoft.Data.Repositories.BRepository.Concrete
 {
     public class Repository<TEntity, TContext> : IRepository<TEntity>
         where TEntity:class,new()

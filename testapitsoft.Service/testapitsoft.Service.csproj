@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\testapitsoft.Core\testapitsoft.Core.csproj" />
+    <ProjectReference Include="..\testapitsoft.Data\testapitsoft.Data.csproj" />
   </ItemGroup>
 
 </Project>

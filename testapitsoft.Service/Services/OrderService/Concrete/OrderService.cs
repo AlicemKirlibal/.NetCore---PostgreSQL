@@ -5,11 +5,13 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using testapitsoft.Core.Data.Entity;
-using testapitsoft.Core.Data.Repository;
 using testapitsoft.Core.Dtos;
 using testapitsoft.Core.Service;
+using testapitsoft.Data.Repositories.OrderRepository.Abstract;
+using testapitsoft.Service.OrderService.Abstract;
 
-namespace testapitsoft.Service.Services
+
+namespace testapitsoft.Service.OrderService.Concrete
 {
     public class OrderService : IOrderService
     {

@@ -7,11 +7,12 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using testapitsoft.ApiService;
-using testapitsoft.Core.Data.Repository;
-using testapitsoft.Core.Service;
-using testapitsoft.Data.Repositories;
+using testapitsoft.Data.Repositories.OrderRepository.Abstract;
+using testapitsoft.Data.Repositories.OrderRepository.Concrete;
 using testapitsoft.Helpers;
-using testapitsoft.Service.Services;
+using testapitsoft.Service.OrderService.Abstract;
+using testapitsoft.Service.OrderService.Concrete;
+
 
 
 namespace TSoftProject.Web

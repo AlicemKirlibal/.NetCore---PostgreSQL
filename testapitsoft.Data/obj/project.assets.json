@@ -928,19 +928,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dell\\.nuget\\packages\\": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\testapitsoft\\testapitsoft.Data\\testapitsoft.Data.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\testapitsoft\\testapitsoft.Data\\testapitsoft.Data.csproj",
       "projectName": "testapitsoft.Data",
-      "projectPath": "C:\\Users\\Dell\\Desktop\\testapitsoft\\testapitsoft.Data\\testapitsoft.Data.csproj",
-      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Desktop\\testapitsoft\\testapitsoft.Data\\obj\\",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\testapitsoft\\testapitsoft.Data\\testapitsoft.Data.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\testapitsoft\\testapitsoft.Data\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -952,10 +956,9 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Dell\\Desktop\\testapitsoft\\testapitsoft.Core\\testapitsoft.Core.csproj": {
-              "projectPath": "C:\\Users\\Dell\\Desktop\\testapitsoft\\testapitsoft.Core\\testapitsoft.Core.csproj"
+            "C:\\Users\\ASUS\\Desktop\\testapitsoft\\testapitsoft.Core\\testapitsoft.Core.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Desktop\\testapitsoft\\testapitsoft.Core\\testapitsoft.Core.csproj"
             }
           }
         }
@@ -968,7 +971,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -1010,7 +1012,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

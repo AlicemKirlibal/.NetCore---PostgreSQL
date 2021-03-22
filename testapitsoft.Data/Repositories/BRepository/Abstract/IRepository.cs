@@ -4,7 +4,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace testapitsoft.Core.Data.Repository
+namespace testapitsoft.Data.Repositories.BRepository.Abstract
 {
     public interface IRepository<TEntity> where TEntity:class,new()
     {

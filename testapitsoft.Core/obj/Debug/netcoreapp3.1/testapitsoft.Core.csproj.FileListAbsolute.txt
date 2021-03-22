@@ -7,3 +7,11 @@ C:\Users\Dell\Desktop\testapitsoft\testapitsoft.Core\obj\Debug\netcoreapp3.1\tes
 C:\Users\Dell\Desktop\testapitsoft\testapitsoft.Core\obj\Debug\netcoreapp3.1\testapitsoft.Core.dll
 C:\Users\Dell\Desktop\testapitsoft\testapitsoft.Core\obj\Debug\netcoreapp3.1\testapitsoft.Core.pdb
 C:\Users\Dell\Desktop\testapitsoft\testapitsoft.Core\obj\Debug\netcoreapp3.1\testapitsoft.Core.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\testapitsoft\testapitsoft.Core\bin\Debug\netcoreapp3.1\testapitsoft.Core.deps.json
+C:\Users\ASUS\Desktop\testapitsoft\testapitsoft.Core\bin\Debug\netcoreapp3.1\testapitsoft.Core.dll
+C:\Users\ASUS\Desktop\testapitsoft\testapitsoft.Core\bin\Debug\netcoreapp3.1\testapitsoft.Core.pdb
+C:\Users\ASUS\Desktop\testapitsoft\testapitsoft.Core\obj\Debug\netcoreapp3.1\testapitsoft.Core.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\testapitsoft\testapitsoft.Core\obj\Debug\netcoreapp3.1\testapitsoft.Core.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\testapitsoft\testapitsoft.Core\obj\Debug\netcoreapp3.1\testapitsoft.Core.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\testapitsoft\testapitsoft.Core\obj\Debug\netcoreapp3.1\testapitsoft.Core.dll
+C:\Users\ASUS\Desktop\testapitsoft\testapitsoft.Core\obj\Debug\netcoreapp3.1\testapitsoft.Core.pdb
